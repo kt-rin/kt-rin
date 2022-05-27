@@ -25,9 +25,9 @@ Tech Stack
   
 <div>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Mui Logo" width="50" height="50"/> 
 <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="Ant Design Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap Logo" width="50" height="50"/>
 </>
 
 <div>
