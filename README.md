@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kt-rin
+Full-Stack Developer
+- 👋 Hi, I’m Kt. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -33,6 +34,8 @@ Tech Stack
 <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourcetree Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git Logo" width="50" height="50"/> 
 <img src="https://dbeaver.com/img/dbeaver-head.png" alt="dbeaver Logo" width="50" height="50"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman Logo" width="50" height="50"/> 
+<!--  <img src="https://cdn.worldvectorlogo.com/logos/nginx.svg" alt="nginx Logo" width="50" height="50"/>  -->
 </>
 
 <!-- ## &#x1f4c8; My GitHub Stats
