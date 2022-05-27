@@ -18,7 +18,7 @@ Tech Stack
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js Logo" width="50" height="50"/> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="ts Logo" width="50" height="50"/>    -->
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql Logo" width="50" height="50"/>
 </>
   
