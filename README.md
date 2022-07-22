@@ -1,4 +1,5 @@
 👋 Hi, I’m Kt who interested in Technology in various field
+
 'Do the best in Dev and destroy it with testing to make a better project'
 
 Now I'm a [Full-Stack Developer]
